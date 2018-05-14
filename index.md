@@ -60,24 +60,31 @@ _游戏客户端，服务器端工程师_<br>
 ## 个人技能
 
 - 编程语言
+
 C/C++,C#,Go,Ruby
 
 - 图形图像
+
 OpenGL,OpenCV,ShaderLab
 
 - 游戏引擎
+
 Unity
 
 - 网络通信
+
 TCP/UDP,Http/WebSocket
 
 - 版本管理
+
 git,gitlab,github
 
 - 其他工程工具
+
 Jenkins,Docker
 
 - 软件
+
 Photoshop
 
 <!-- ### Footer
