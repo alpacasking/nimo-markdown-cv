@@ -7,7 +7,7 @@ pdf: true
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
-<a href="https://alpacasking.github.io/" style="margin-left:0.5em">alpacasking.github.io</a>
+<a style="margin-left:0.5em">alpacasking.github.io</a>
 <i class="fi-mail" style="margin-left:1em"></i>
 <a style="margin-left:0.5em">alpacasking@gmail.com</a>
 </div>
